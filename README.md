@@ -1,9 +1,7 @@
 # Number Guessing Game
-
+---
 A simple console-based Number Guessing Game written in Java.  
 Test your luck and logic by guessing the number within a limited number of attempts!
-
----
 
 ## 🕹️ How to Play
 
@@ -22,8 +20,6 @@ Test your luck and logic by guessing the number within a limited number of attem
 
 5. After the game ends, you’ll be asked if you want to play again.
 
----
-
 ## ✨ Features
 
 - Input validation (no crash on invalid input)
@@ -32,12 +28,11 @@ Test your luck and logic by guessing the number within a limited number of attem
 - Basic scoring system
 - Fully written in Java using `Scanner` and `Random`
 
----
-
 ## Requirements
 
 - Java JDK 8 or higher
 - A terminal or IDE (e.g., IntelliJ, Eclipse, VS Code)
 
----
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
