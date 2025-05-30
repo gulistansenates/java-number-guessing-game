@@ -1,5 +1,5 @@
 # Number Guessing Game
----
+
 A simple console-based Number Guessing Game written in Java.  
 Test your luck and logic by guessing the number within a limited number of attempts!
 
